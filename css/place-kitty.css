@@ -34,7 +34,7 @@ img.kitty-1 {
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-div#wheelbarrow-foreground + img {
+#wheelbarrow-foreground + img {
   position: absolute;
   z-index: 3;
   top: 217px;
